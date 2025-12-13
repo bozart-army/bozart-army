@@ -1,16 +1,28 @@
-## Hi there 👋
+# Bozart Army
 
-<!--
-**bozart-army/bozart-army** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bozart Army ist ein fiktionales Science-Fiction-Universum, angesiedelt im Jahr 4780.
 
-Here are some ideas to get you started:
+Dieses Repository dient als öffentlicher Projektordner für Weltbau, erzählerische Texte, In-World-Dokumente, Konzepte und begleitende Assets eines spekulativen Zukunftsfranchises.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alle Inhalte sind Teil einer erfundenen, weit entfernten Zukunftsrealität bzw. alternativen Zeitlinie.  
+Es bestehen keine Bezüge zur realen Gegenwart.
+
+## Inhalt
+
+- Worldbuilding-Dokumente
+- Narrative Texte & In-World-Artefakte
+- Konzepte zu Fraktionen, Systemen und Technologien
+- Begleitmaterial für Buch-, Film- und Serienformate
+
+## Fiktionaler Rahmen
+
+Die dargestellten Organisationen, Systeme, Technologien und Konflikte sind vollständig fiktional.  
+Sie dienen der erzählerischen Auseinandersetzung mit Themen wie Macht, Kontrolle, Freiheit und Menschlichkeit innerhalb einer dystopischen Zukunftswelt.
+
+## Hinweis
+
+Dieses Projekt ist ein künstlerisches Gedankenexperiment und dient ausschließlich der fiktionalen Erzählung und dem Worldbuilding.
+
+## Lizenz
+
+Siehe `LICENSE` und `FICTION_NOTICE.md`.
