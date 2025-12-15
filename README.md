@@ -25,9 +25,12 @@ Dieses Projekt ist ein künstlerisches Gedankenexperiment und dient ausschließl
 
 ## Lizenz
 
-Der erzählerische Inhalt dieses Repositories (Worldbuilding, Texte, Lore,
-Charaktere, Fraktionen und Systeme) ist urheberrechtlich geschützt.
-Alle Rechte vorbehalten.
+Der erzählerische Inhalt dieses Repositories – einschließlich Worldbuilding,
+Texte, Lore, Charaktere, Fraktionen, Organisationen, Systeme und Konzepte –
+ist urheberrechtlich geschützt.
 
-Der enthaltene Quellcode ist separat lizenziert.
-Siehe entsprechende Lizenzdateien.
+Alle Rechte vorbehalten.  
+Siehe `LICENSE.story`.
+
+Enthaltener Quellcode ist separat lizenziert.  
+Siehe `LICENSE.code`.
