@@ -30,6 +30,7 @@ Texte, Lore, Charaktere, Fraktionen, Organisationen, Systeme und Konzepte –
 ist urheberrechtlich geschützt.
 
 Alle Rechte vorbehalten.  
+© 2025 Saša Bagarić / Bozart Army  
 Siehe `LICENSE.story`.
 
 Enthaltener Quellcode ist separat lizenziert.  
