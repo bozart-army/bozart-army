@@ -1,4 +1,4 @@
-© 2025 Sálè / Bozart Army
+© 2025 Saša Bagarić / Bozart Army
 
 ALL RIGHTS RESERVED
 
