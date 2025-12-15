@@ -25,5 +25,9 @@ Dieses Projekt ist ein künstlerisches Gedankenexperiment und dient ausschließl
 
 ## Lizenz
 
-Siehe `LICENSE` und `FICTION_NOTICE.md`.
+Der erzählerische Inhalt dieses Repositories (Worldbuilding, Texte, Lore,
+Charaktere, Fraktionen und Systeme) ist urheberrechtlich geschützt.
+Alle Rechte vorbehalten.
 
+Der enthaltene Quellcode ist separat lizenziert.
+Siehe entsprechende Lizenzdateien.
